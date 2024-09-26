@@ -4,3 +4,11 @@ Comprovadamente conectado Chat Implementação e Chat Desenvolvimento.
 Comprovação de que funciona, e eu não sei nem lembro porque.
 
 11:09 PM
+
+25/09/2024
+
+O STC está evoluindo por si só, descobri o conceito de Atributos ontem.
+Além disso, não liguei apenas 2 chats, liguei 3 chats com o chat da documentação - O de Desenvolvimento, o de Implementação e a Documentação.
+
+08:07 PM
+
