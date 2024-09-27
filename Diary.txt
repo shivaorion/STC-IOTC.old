@@ -1,14 +1,14 @@
 24/09/2024
 
-Comprovadamente conectado Chat Implementação e Chat Desenvolvimento.
-Comprovação de que funciona, e eu não sei nem lembro porque.
+Proven that the Implementation Chat and Development chat linked.
+Proven that the code works
 
 11:09 PM
 
 25/09/2024
 
-O STC está evoluindo por si só, descobri o conceito de Atributos ontem.
-Além disso, não liguei apenas 2 chats, liguei 3 chats com o chat da documentação - O de Desenvolvimento, o de Implementação e a Documentação.
+STC is evolving by itself. I uncovered the concept of Attributes yesterday.
+Besides, I did't link 2 chats, I linked 3: Documentation, Implemetation and Documentation.
 
 08:07 PM
 
