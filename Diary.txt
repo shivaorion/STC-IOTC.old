@@ -5,6 +5,7 @@ Proven that the code works
 
 11:09 PM
 
+
 09/25/2024
 
 STC is evolving by itself. I uncovered the concept of Attributes yesterday.
@@ -12,8 +13,9 @@ Besides, I didn't link 2 chats, I linked 3: Documentation, Implementation, and D
 
 08:07 PM
 
+
 09/27/2024
 
-Today I closed the 1.1 Implementation, instead of referring to "U/user" it is referring to the System itself.
+Today I closed the 1.1 Implementation chat, instead of referring to "U/user" it is referring to the System itself.
 
 09:23 PM
