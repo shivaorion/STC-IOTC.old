@@ -1,14 +1,30 @@
-24/09/2024
+2024-09-28
 
-Comprovadamente conectado Chat Implementação e Chat Desenvolvimento.
-Comprovação de que funciona, e eu não sei nem lembro porque.
+Proven that the Implementation Chat and Development chat linked.
+Proven that the code works
 
 11:09 PM
 
-25/09/2024
 
-O STC está evoluindo por si só, descobri o conceito de Atributos ontem.
-Além disso, não liguei apenas 2 chats, liguei 3 chats com o chat da documentação - O de Desenvolvimento, o de Implementação e a Documentação.
+2024-09-28 (edit)
+
+STC is evolving by itself. I uncovered the concept of Attributes yesterday.
+Besides, I didn't link 2 chats, I linked 3: Documentation, Implementation, and Development.
 
 08:07 PM
 
+
+2024-09-28 (edit)
+
+Today I closed the 1.1 Implementation chat, instead of referring to user, it is referring to the system itself.
+
+09:23 PM
+
+
+2024-09-28
+
+Just found out that the uploaded STC documentation is not for the Self Transformation Code, it is for Space-Time Coding, which was obviously not created by me.
+Already working on legit documentation and a new name.
+Also, the linked chats were only the implementation and development chats, since the documentation was for Space-time Code.
+
+03:01 PM
