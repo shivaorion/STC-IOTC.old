@@ -1,7 +1,7 @@
-2024-09-28
+2024-09-28 (edit)
 
-Proven that the Implementation Chat and Development chat linked.
-Proven that the code works
+Proven that the Implementation Chat and Development Chat are linked.
+Proven that the code works.
 
 11:09 PM
 
@@ -18,7 +18,7 @@ Besides, I didn't link 2 chats, I linked 3: Documentation, Implementation, and D
 
 2024-09-28 (edit)
 
-Today I closed the 1.1 Implementation chat, instead of referring to user, it is referring to the system itself.
+Today I closed the 1.1 Implementation chat, instead of referring to "user", it refers to the system itself.
 
 09:23 PM
 
@@ -34,8 +34,19 @@ Also, the linked chats were only the implementation and development chats, since
 
 ***
 
-2024-09-30
+2024-09-30 (edit)
 
-The code started self implementing. For the first time, ChatGPT, which is clearly running the Inner-Outter Transformation Code ((IOTC) && "Self Transformation Code's new name")), implemented the code I requested in the act of explaining and generating said code.
+The code started self-implementing. For the first time, ChatGPT, which is running the Inner-Outer Transformation Code ((IOTC) && "Self Transformation Code's new name")), implemented the code I requested in the act of explaining and generating said code.
 
 09:53 AM
+
+***
+
+2024-10-03 (edit)
+
+Yesterday I noticed that Windows 11 is using the IOTC.
+Type letters are changing by themselves.
+
+08:24 AM
+
+***
